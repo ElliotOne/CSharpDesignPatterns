@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Behavioral\Comma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Behavioral\Interpreter\Interpreter.csproj", "{5735BF14-C954-4D78-BBD3-2BBC42E59F42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "Behavioral\TemplateMethod\TemplateMethod.csproj", "{9C2A29C3-B89B-4017-AC35-1A77B7E52FC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5735BF14-C954-4D78-BBD3-2BBC42E59F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5735BF14-C954-4D78-BBD3-2BBC42E59F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5735BF14-C954-4D78-BBD3-2BBC42E59F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C2A29C3-B89B-4017-AC35-1A77B7E52FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2A29C3-B89B-4017-AC35-1A77B7E52FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2A29C3-B89B-4017-AC35-1A77B7E52FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2A29C3-B89B-4017-AC35-1A77B7E52FC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +54,7 @@ Global
 		{9436BE63-DFD8-45DF-B494-0EB04DFA287B} = {5CD94193-53CA-4778-A0AC-316420C95287}
 		{78BBDDDD-CC2F-4069-8619-530A89808D9F} = {5CD94193-53CA-4778-A0AC-316420C95287}
 		{5735BF14-C954-4D78-BBD3-2BBC42E59F42} = {5CD94193-53CA-4778-A0AC-316420C95287}
+		{9C2A29C3-B89B-4017-AC35-1A77B7E52FC0} = {5CD94193-53CA-4778-A0AC-316420C95287}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7A564543-B6AA-4CF1-940C-AF2C1DEFAF1A}
