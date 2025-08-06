@@ -59,3 +59,7 @@ Each pattern is implemented as a **console project**. You can run them individua
 ```bash
 cd Creational/Singleton
 dotnet run
+```
+
+## License
+This project is open-source and available under the MIT License.
